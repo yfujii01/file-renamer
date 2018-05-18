@@ -1,0 +1,10 @@
+{
+	"//": "編集に使用するエディター",
+	"//": "非同期で起動するエディタについては終了待ちのオプションが必要",
+	"editor": "code -n -w",
+	"// editor_sample1": "code -n -w",
+	"// editor_sample2": "vim",
+	"//": "ファイル名を置換する対象のディレクトリの初期値",
+	"default_target": "./testDir",
+	"// default_target_sample": "./testDir"
+}
