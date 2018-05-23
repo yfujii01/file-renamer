@@ -4,6 +4,8 @@
 	"editor": "code -n -w",
 	"// editor_sample1": "code -n -w",
 	"// editor_sample2": "vim",
+	"// editor_sample3": "\"C:/Program Files (x86)/sakura/sakura.exe\"",
+	"// editor_sample4": "notepad",
 	"//": "ファイル名を置換する対象のディレクトリの初期値",
 	"default_target": "./testDir",
 	"// default_target_sample": "./testDir"
